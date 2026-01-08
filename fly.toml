@@ -7,3 +7,4 @@ app = "sheerid-telegram-bot"
 [[services]]
   internal_port = 8080
   protocol = "tcp"
+fly postgres create
