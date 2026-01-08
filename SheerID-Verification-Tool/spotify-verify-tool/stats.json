@@ -1,0 +1,27 @@
+{
+  "total": 5,
+  "success": 1,
+  "failed": 4,
+  "orgs": {
+    "Tecnol\u00f3gico de Monterrey": {
+      "success": 0,
+      "failed": 1
+    },
+    "University of Amsterdam": {
+      "success": 0,
+      "failed": 1
+    },
+    "RWTH Aachen University": {
+      "success": 1,
+      "failed": 0
+    },
+    "University of Cambridge": {
+      "success": 0,
+      "failed": 1
+    },
+    "University of Florida": {
+      "success": 0,
+      "failed": 1
+    }
+  }
+}
